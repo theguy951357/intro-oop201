@@ -1,0 +1,7 @@
+  CCC     SSS    BBB 
+ C   C   S   S   B  B
+C         S      B  B
+C          S     BBB 
+C           S    B  B
+ C   C   S   S   B  B
+  CCC     SSS    BBB 
